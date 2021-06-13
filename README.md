@@ -5,15 +5,14 @@ https://www.udemy.com/course/python-beginner/learn/lecture/83048
 
 # 始める前の流れ
 
-1. 当該ディレクトリに移動後
+1. 当該ディレクトリに移動後、ブランチ一覧を確認
 ```zsh
 $ git branch
 ```
-リストを確認
 
 2. 新たにブランチを切る
 ```zsh
 $ git checkout -b <branchname>
 ```
 
-3. github上にてプルリクを作成、マージも行う
+3. 終了後、github上にてプルリクを作成、マージも行う
